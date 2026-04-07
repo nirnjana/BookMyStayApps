@@ -11,7 +11,7 @@
  * @author Sri
  * @version 1.0
  */
-public class UseCase1HotelBookingApp {
+public class BookMyStayApps {
 
     /**
      * The main method serves as the entry point of the application.
